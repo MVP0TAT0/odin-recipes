@@ -1,1 +1,6 @@
-# odin-recipes
+# ODIN RECIPES
+
+Basic recipe website.
+The website consists of a main index page which has links to a few recipes.
+
+This demonstrates basic HTML and Git/GitHub knowledge.
